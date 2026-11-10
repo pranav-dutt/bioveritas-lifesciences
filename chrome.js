@@ -1,4 +1,3 @@
-// BioVeritas v3 · shared site chrome (floating header, mega menu, mobile drawer, footer) + reveal motion.
 (function () {
   const SERVICES = [
     { label: 'Clinical Research', href: 'service-clinical.html', sub: 'Phase I–IV through qualified sites', items: [

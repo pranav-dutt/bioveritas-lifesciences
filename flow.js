@@ -1,11 +1,9 @@
-// ─────────────────────────────────────────────────────────────────────────────
 // BioVeritas, shared page interactions
 //   • [data-flow]      interactive horizontal stage flows (ADME, pipelines,
 //                      regulatory journey, scientific approach, translational)
 //   • [data-count]     animated stat counters (run once, on first view)
 //   • form[data-thanks] client-side submit → thank-you page
 //   • .toc             scroll-spy for in-page sidebars
-// ─────────────────────────────────────────────────────────────────────────────
 (function () {
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 

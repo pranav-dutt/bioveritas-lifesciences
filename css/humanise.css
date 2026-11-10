@@ -1,0 +1,17 @@
+.kicker::before{display:none}
+.hg-kick::before,.hg-kick::after,.hero-kicker::before,.hv-kick::before{display:none}
+.hg-kick,.hero-kicker{font-size:clamp(15px,1.2vw,18px);font-weight:500;color:rgba(255,255,255,.85)}
+h1,.page-hero h1{font-size:clamp(36px,4.2vw,62px)!important;line-height:1.06;letter-spacing:-.032em}
+.page-hero h1{max-width:20ch;margin-bottom:20px!important}
+.hero h1,.hero-g h1{font-size:clamp(38px,4.6vw,70px)!important;line-height:1.04}
+h2{font-size:clamp(28px,2.7vw,42px);line-height:1.1;letter-spacing:-.028em}
+.home-cta h2,.cta-band h2{font-size:clamp(30px,3.1vw,48px)!important;line-height:1.08;max-width:22ch}
+.home-cta .panel-dark{padding:clamp(48px,5vw,80px) 0}
+.foot-motto p{font-size:clamp(26px,2.8vw,42px);line-height:1.1;letter-spacing:-.025em}
+.fig b{font-size:clamp(44px,4.4vw,68px)}
+.stat-band .n{font-size:clamp(40px,3.8vw,58px)}
+.rsn-c .rn b,.who-quote b,.lead-card .initials{font-size:44px}
+.def .dk,.fl-detail .fd-n{font-size:32px}
+.lead{font-size:clamp(17px,1.2vw,19px)}
+.btn{font-size:15.5px}
+@media(max-width:760px){h1,.page-hero h1,.hero h1,.hero-g h1{font-size:clamp(32px,8.4vw,40px)!important}h2,.home-cta h2,.cta-band h2{font-size:clamp(26px,7vw,32px)!important}.foot-motto p{font-size:26px}}
