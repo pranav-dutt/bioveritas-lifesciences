@@ -86,7 +86,7 @@ ${['how', 'industries', 'insights', 'about'].map(k => `<details class="mn-group"
 <a href="contact.html">Contact${mnAr}</a>
 </nav>
 <div class="mn-cta"><a class="btn btn-primary" href="contact.html">Discuss your project${arrow}</a><a class="btn btn-ghost" href="tel:+919910663681">Call +91 99106 63681</a></div>
-<div class="mn-meta">BioVeritas Life Sciences Pvt Ltd<br>B-14, Sector-132, Noida, India<br><a href="mailto:bioveritascro@gmail.com">bioveritascro@gmail.com</a></div>
+<div class="mn-meta">BioVeritas Life Sciences Pvt Ltd<br>B-14, Sector-132, Noida, India<br><a href="mailto:info@bioveritaslifesciences.com">info@bioveritaslifesciences.com</a></div>
 </aside>`;
 
   const footer = `<footer class="site-footer" data-screen-label="Footer"><div class="wrap">
@@ -94,7 +94,7 @@ ${['how', 'industries', 'insights', 'about'].map(k => `<details class="mn-group"
 <div class="foot-brand"><img src="assets/bioveritas-logo-dark.png" alt="BioVeritas Life Sciences" width="180" height="62"><p>An integrated life sciences and scientific development partner, combining internal scientific expertise with qualified laboratories, clinical sites and manufacturing partners, as applicable.</p><div class="foot-company"><span class="cname">BioVeritas Life Sciences Private Limited</span><br>Ground Floor, B-14, Sector-132<br>Noida, Uttar Pradesh, India<br>Estd. 2025 · GST &amp; MSME registered</div></div>
 <div class="foot-col"><h5>Services</h5><ul>${SERVICES.map(g => `<li><a href="${g.href}">${esc(g.label)}</a></li>`).join('')}<li><a href="services.html">All services</a></li></ul></div>
 <div class="foot-col"><h5>Company</h5><ul><li><a href="how-we-work.html">How we work</a></li><li><a href="how-we-work.html#network">Scientific partner network</a></li><li><a href="industries.html">Industries</a></li><li><a href="about.html">About</a></li><li><a href="about.html#leadership">Leadership</a></li><li><a href="quality.html">Quality approach</a></li><li><a href="blog.html">Insights</a></li><li><a href="careers.html">Careers</a></li></ul></div>
-<div class="foot-col"><h5>Discuss your project</h5><ul><li><a href="contact.html">Contact &amp; enquiries</a></li><li><a href="request-proposal.html">Request a proposal</a></li><li><a href="mailto:bioveritascro@gmail.com">bioveritascro@gmail.com</a></li><li><a href="tel:+919910663681">+91 99106 63681</a></li><li><a href="https://wa.me/919910663681" target="_blank" rel="noopener">WhatsApp us</a></li><li class="foot-hours">Office hours<br>Mon – Fri · 9:30 am – 6:00 pm IST</li></ul></div>
+<div class="foot-col"><h5>Discuss your project</h5><ul><li><a href="contact.html">Contact &amp; enquiries</a></li><li><a href="request-proposal.html">Request a proposal</a></li><li><a href="mailto:info@bioveritaslifesciences.com">info@bioveritaslifesciences.com</a></li><li><a href="tel:+919910663681">+91 99106 63681</a></li><li><a href="https://wa.me/919910663681" target="_blank" rel="noopener">WhatsApp us</a></li><li class="foot-hours">Office hours<br>Mon – Fri · 9:30 am – 6:00 pm IST</li></ul></div>
 </div>
 <div class="foot-motto"><p>From concept to <span>commercialisation.</span></p><a class="btn btn-ghost" href="contact.html">Start a conversation${arrow}</a></div>
 <div class="foot-bottom"><div>© 2026 BioVeritas Life Sciences Private Limited</div><div class="legal"><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="cookie-policy.html">Cookies</a><a href="quality.html">Quality policy</a><a href="sitemap.html">Sitemap</a></div></div>
